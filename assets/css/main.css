@@ -2772,6 +2772,7 @@ input[type='button']:disabled,
 	display: block;
 	width: 100%;
 	border-radius: 50px;
+	border: 1px solid;
 }
 
 .features article .inner {
