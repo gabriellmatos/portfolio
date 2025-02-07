@@ -124,6 +124,11 @@ q {
 	quotes: none;
 }
 
+article img:hover {
+	transform: scale(1.05);
+	transition: 0.1s ease-in-out;
+}
+
 blockquote:before,
 blockquote:after,
 q:before,
