@@ -95,8 +95,7 @@ input[type='text'] {
 }
 
 .single-meal {
-	margin: 30px auto;
-	width: 70%;
+	margin: 30px;
 }
 
 .single-meal img {
